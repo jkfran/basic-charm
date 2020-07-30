@@ -1,0 +1,5 @@
+name: basic-charm
+summary: A charm for the tutorial.
+description: A simple and basic charm to show the Operator Framework and Charmcraft in a tutorial.
+series:
+  - bionic
